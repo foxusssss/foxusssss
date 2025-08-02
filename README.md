@@ -1,27 +1,33 @@
-<h1 align="center">~ Who am I? ~</h1>
+<h1 align="center">Focus</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Focus+Focus+Focus;Founder+Of+Linklen" />
+  <em>Software enthusiast building practical, scalable, and purposeful projects.</em><br>
+  <em>Focused on backend systems, automation, and clean development.</em>
 </p>
 
+---
 
- Do Not Speak About Your Projects To Anyone
+### 🚀 Technologies I Use
 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
+---
 
+### 📌 Featured Projects
 
+- [ Linklen](https://linklen.com) – URL shortening platform with analytics & CPC-based earnings
+- [ Web Scraping Bots](#) – MySQL-connected automation bot (Private)
+- [ Wordpress Bots](#) – MySQL-connected automation bot (Private)
 
-🕶️ Linklen
+---
 
-Here is my biggest and only live project: Linklen.com
+### 📫 Contact
 
-  You can short your links via Linklen and then..
-You can analyize the statistics,
-Earn a lot from,
-Make payout in fastest way,
-WITH THEM.
+Just do not.
 
-
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=umutdev&show_icons=true&theme=tokyonight&hide_title=true&hide_rank=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umutdev&layout=compact&theme=tokyonight&hide_title=true" /> </p>
-<p align="center"><i>// Focus</i></p> ```
+---
