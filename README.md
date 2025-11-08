@@ -28,6 +28,6 @@
 
 ### 📫 Contact
 
-Just do not.
+tg: f000xus 
 
 ---
