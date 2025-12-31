@@ -3,7 +3,8 @@
 <h1> Focus</h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="450"/>
+
 </div>
 
 <p>
