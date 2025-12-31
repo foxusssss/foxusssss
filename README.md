@@ -1,6 +1,10 @@
 <div align="center">
 
-<h1>🎯 Focus</h1>
+<h1> Focus</h1>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
+</div>
 
 <p>
   <em>Software enthusiast building practical, scalable, and purposeful projects.</em><br>
