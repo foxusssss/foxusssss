@@ -20,20 +20,19 @@
 
 ### 📌 Featured Projects
 
-- [ Linklen ](https://linklen.com) – URL shortening platform with analytics & CPC-based earnings
-- 
-- **University Student & Admin CRM System (Private Case Study)**  
+- [Linklen](https://linklen.com) – URL shortening platform with analytics & CPC-based earnings
+
+- [University Student & Admin CRM System (Private Case Study)](#)  
   Full-featured university-scale CRM system for student management, admin operations, and secure authentication.  
   *Highlights:* Role-based access control, 2FA (TOTP), session hardening, rate limiting, OWASP ASVS-aligned security
-  
-- [ Web Scraping Bots ](#) – MySQL-connected automation systems for data collection and scheduled tasks.  
-  *Tech:* PHP, MySQL, Cron, Headless automation (Private)
-- 
--- **WordPress Plugins & Automation Tools (Private)**  
+
+- [Web Scraping & Automation Systems (Private)](#)  
+  MySQL-connected automation systems for data collection and scheduled tasks.  
+  *Tech:* PHP, MySQL, Cron, Headless automation
+
+- [WordPress Plugins & Automation Tools (Private)](#)  
   Custom-developed WordPress plugins and backend automation systems integrated with MySQL.  
   *Focus:* Secure plugin architecture, data synchronization, scheduled tasks, and performance-oriented design
-
----
 
 ### 📫 Contact
 
