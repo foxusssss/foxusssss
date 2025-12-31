@@ -3,9 +3,13 @@
 <h1> Focus</h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="450"/>
-
+  <img 
+    src="https://media.giphy.com/media/3og0IPxMM0erATueVW/giphy.gif" 
+    width="100%" 
+    height="120"
+  />
 </div>
+
 
 <p>
   <em>Software enthusiast building practical, scalable, and purposeful projects.</em><br>
